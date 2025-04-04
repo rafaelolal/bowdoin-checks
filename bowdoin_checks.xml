@@ -87,7 +87,7 @@
     <property name="maximum" value="0"/>
     <property name="message" value="Line has trailing spaces."/>
   </module> -->
--->>
+
   <!-- Checks for Headers                                -->
   <!-- See https://checkstyle.org/checks/header/index.html   -->
   <!-- <module name="Header"> -->
